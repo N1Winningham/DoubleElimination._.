@@ -1,6 +1,6 @@
 // Write a C++ program to calculate the slope of a line
 // that concects two given points p(x1,y1) and q(x2,y2)
-
+edited code::::
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
